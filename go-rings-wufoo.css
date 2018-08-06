@@ -1,4 +1,9 @@
-.wufoo li.focused,  
+.wufoo li.focused,
 form li.focused {
     background-color: #fbf9f9;
+}
+
+.wufoo .info {
+
+  display: none;
 }
